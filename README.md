@@ -4,6 +4,7 @@ For information on how to set up a pipeline for this repository, see [Create you
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
 
 # Contributing
+[![Build Status](https://dev.azure.com/bkhawaja0113/bkhawaja/_apis/build/status/bilalkhawajagp.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/bkhawaja0113/bkhawaja/_build/latest?definitionId=1&branchName=master)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
